@@ -8,13 +8,17 @@ public class Student {
 	int grade;
 	double gpa;
 
-	class Class {
+	class Course {
 		String title;
+		String subject;
+		String description;
+
+
 	}
-	/*
+
 	public void addClass();
 	public void dropClass();
 
 	public Student() {}
-	*/
+
 }
