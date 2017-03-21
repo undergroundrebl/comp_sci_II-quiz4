@@ -7,16 +7,12 @@ public class Student {
 	double age;
 	int grade;
 	double gpa;
-
-	class Course {
-		String title;
-		String subject;
-		String description;
-
-
-	}
+	ArrayList<course> courses;
 
 	public void addClass();
+	/*
+	public void addClass()
+
 	public void dropClass();
 
 	public Student() {}
