@@ -13,7 +13,7 @@ public class Student {
 		String title;
 	}
 
-
+	/*
 	public void addClass()
 
 	public void dropClass();
